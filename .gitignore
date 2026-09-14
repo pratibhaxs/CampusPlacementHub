@@ -123,3 +123,5 @@ frontend/.env.*
 # Local config
 config.local.*
 secrets.*
+.vercel
+.env*
